@@ -10,7 +10,6 @@ namespace FirstController.Controllers
     public class ProductsController : Controller
     {
         // GET: Product
-        //Text to check the versioncontroller that never works
         public string Index()
         {
             return "this is all the products";
